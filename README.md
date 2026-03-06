@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning ...
 ## Python
+## Python for Data Science
 
 <!--
 This HTML syntax (e.g. <!--) is keeping the other lines hidden when you toggle to "Preview".
