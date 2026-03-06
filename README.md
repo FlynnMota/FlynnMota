@@ -1,6 +1,14 @@
-## Hi there 👋
+# About me <img width="35" height="36" alt="image" src="https://github.com/user-attachments/assets/6b607f24-0587-4c6b-b02a-1539d392be01" />
+
+- 🔭 I’m currently working as a **Cybersecurity Professional**. Developing working in:
+## Cyber Threat Hunting
+## Jupyter Notebooks
+
+- 🌱 I’m currently learning ...
+## Python
 
 <!--
+This HTML syntax (e.g. <!--) is keeping the other lines hidden when you toggle to "Preview".
 **FlynnMota/FlynnMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
