@@ -10,6 +10,9 @@
 ## Python for Data Science
 ## MS Security Copilot
 
+- 👯 I’m currently collaborating with the Cyber community on ...
+## [Medium](https://medium.com/@marcio22silveira)
+
 <!--
 This HTML syntax (e.g. <!--) is keeping the other lines hidden when you toggle to "Preview".
 **FlynnMota/FlynnMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
