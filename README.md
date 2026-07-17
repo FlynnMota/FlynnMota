@@ -1,12 +1,14 @@
 # About me <img width="35" height="36" alt="image" src="https://github.com/user-attachments/assets/6b607f24-0587-4c6b-b02a-1539d392be01" />
 
 - 🔭 I’m currently working as a **Cybersecurity Professional**. Developing working in:
+## AI Agent Creation with Microsoft Security Copilot
 ## Cyber Threat Hunting
 ## Jupyter Notebooks
 
 - 🌱 I’m currently learning ...
 ## Python
 ## Python for Data Science
+## MS Security Copilot
 
 <!--
 This HTML syntax (e.g. <!--) is keeping the other lines hidden when you toggle to "Preview".
